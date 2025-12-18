@@ -7,5 +7,5 @@
 🚀 Always improving my skills through hands-on projects
 
 ![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexLouk&theme=github)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexLouk&show_icons=true)
-
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=AlexLouk&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexLouk&layout=compact&theme=radical)
