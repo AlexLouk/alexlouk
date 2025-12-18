@@ -6,6 +6,6 @@
 🔐 Learning and practicing cybersecurity on TryHackMe  
 🚀 Always improving my skills through hands-on projects
 
+![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexLouk&theme=github)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexLouk&show_icons=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexLouk&show_icons=true&count_private=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexLouk&show_icons=true&count_private=true&hide_title=false&hide_border=false)
+
