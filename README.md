@@ -6,5 +6,4 @@
 🔐 Learning and practicing cybersecurity on TryHackMe  
 🚀 Always improving my skills through hands-on projects
 
-![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexLouk&theme=github)
 ![TryHackMe Pledger](https://tryhackme-badges.s3.amazonaws.com/Pledger.png)
