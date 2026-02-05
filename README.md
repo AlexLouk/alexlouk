@@ -6,4 +6,4 @@
 🔐 Learning and practicing cybersecurity on TryHackMe  
 🚀 Always improving my skills through hands-on projects
 
-![TryHackMe Pledger](https://tryhackme-badges.s3.amazonaws.com/Pledger.png)
+![TryHackMe Pledger](https://tryhackme-badges.s3.amazonaws.com/Pledger.png?update=2)
