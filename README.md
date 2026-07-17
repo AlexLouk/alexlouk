@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Alex
+### Software Engineer
 
 🎓 Computer Science graduate from the University of Applied Sciences Stuttgart  
 💻 Interested in Software Engineering & Cybersecurity  
-🛠️ Currently working on a freelance project  
 🔐 Learning and practicing cybersecurity on TryHackMe and HackTheBox  
 🚀 Always improving my skills through hands-on projects
 
